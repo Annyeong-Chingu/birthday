@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.head {
+    width: 100vw;
+    height: 35px;
+    background-color: #00000000;
+    text-align: center;
+    position: fixed;
+    z-index: 9999;
+    line-height: 25px;
+}
+
+audio {
+    position: relative;
+    width: 50%;
+    height: 25px;
+    margin: 5px auto;
+}
+
+.jumbotron {
+    padding-top: 3rem;
+    background-color: #bfd8d2;
+}
+
+#carousel {
+    background-color: #ffffff;
+}
+
+#gallery {
+    background-color: #ffffff;
+}
+
+#ucapan1 {
+    background-color: #fedcd2;
+}
+
+#ucapan2 {
+    background-color: #dcb239;
+}
+
+#ucapan2 p {
+    color: #ffffff;
+}
+
+h1,
+h2 {
+    color: #e95216;
+}
+
+.jumbotron p {
+    color: #000000;
+}
